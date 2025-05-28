@@ -20,8 +20,8 @@ license](https://opensource.org/licenses/MIT).
 ## Example code 
 Java code example: 
 ```Java 
-    public class App { 
-        public static void main(String[] args) { 
+    public class App{ 
+        public static void main(String[] args){ 
             System.out.println("Welcome to IPE TP01."); 
         } 
     } 
